@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1nZmdxNXM0a212aGt2aWhhODNycm80Y21wZnBneXVrbW0wN3c3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="500"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1nZmdxNXM0a212aGt2aWhhODNycm80Y21wZnBneXVrbW0wN3c3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="400"/>
 <div id="badges">
   <a href="https://t.me/matvao1503">
      <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge">
